@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diario Universal</title>
+  <!-- minify -->
+  <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <section>
+    <dialog class="nes-dialog is-dark is-rounded" id="dialog-dark-rounded">
+      <form method="dialog">
+        <p class="title">Você precisa confirmar que aceita</p>
+        <p>os termos de uso Leia <span class="nes-text is-warning" onclick="termos()">AQUI</span></p>
+        <menu class="dialog-menu">
+          <button class="nes-btn" onclick="cancel()">Cancelar</button>
+          <button class="nes-btn is-primary" onclick="confirm()">Aceito</button>
+          
+        </menu>
+      </form>
+    </dialog>
+  </section>
+  <script src="./js/showConfirm.js"></script>
+</body>
+</html>

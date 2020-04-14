@@ -1,0 +1,84 @@
+body {
+  background: rgb(223, 223, 223);
+}
+.zerar {
+  margin: 0;
+  padding: 0;
+}
+.tamanho {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tamanho input {
+  width: 400px;
+}
+
+.textarea {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+
+  margin-top: 2rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textarea textarea {
+  resize: none;
+  margin-right: 1rem;
+}
+.textarea button {
+  height: 7.5rem;
+}
+
+div#container-message {
+  max-width: 1000px;
+  width: 60%;
+
+  margin: 0 auto;
+
+  margin-top: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-message {
+  max-width: 1000px;
+  width: 60%;
+  
+  margin: 0 auto;
+
+  margin-top: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-message .marginbottom {
+  margin-bottom: 1rem;
+  width: 100%;
+
+}
+
+.container-message section .username{
+  font-size: 10pt;
+  color: #d3d3d3;
+}
+.container-message section .message{
+  font-size: 8pt;
+  color: #92cc41;;
+}
