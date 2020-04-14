@@ -1,6 +1,5 @@
 <h1 align="center">
-    Diário Universal
-    <img alt="EXAMPLE" title="" src="/img/logodiario.png" width="250px" />
+    <img alt="Diário Universal" title="" src="/img/logodiario.png" />
 </h1>
 
 ---
