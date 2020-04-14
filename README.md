@@ -30,4 +30,4 @@ Install xampp and import dbdiario.sql to your phpmyadmin and installer
 </h1>
 
 ## 📝 License
-[MIT]('./LICENSE')
+[MIT]('LICENSE')
