@@ -8,7 +8,7 @@
 	Diário desenvolvido em php e JavaScript
 </blockquote>
 
-## 📌 About
+## 📌 Sobre
 Diario Universal é um lugar onde você pode compartilhar seu dia e suas idéias sem se preocupar com o que os outros vão pensar
 
 ## 🚀 Tecnologias
