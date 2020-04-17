@@ -28,6 +28,3 @@ Install xampp and import dbdiario.sql to your phpmyadmin and installer
     Diary page
     <img alt="Diario" title="" src="/img/layout-principal.png" />
 </h1>
-
-## 📝 License
-[MIT](LICENSE)
