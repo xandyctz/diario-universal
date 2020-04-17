@@ -5,22 +5,22 @@
 ---
 
 <blockquote align="center">
-	Diary developed in php and js
+	Diário desenvolvido em php e JavaScript
 </blockquote>
 
 ## 📌 About
-Diario Universal is a place where you can share your day and your ideas without worrying about what others will think
+Diario Universal é um lugar onde você pode compartilhar seu dia e suas idéias sem se preocupar com o que os outros vão pensar
 
-## 🚀 Technology
+## 🚀 Tecnologias
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/)
 
-## ⏳ Installation
+## ⏳ Instalacão
 
-1. Installation of premises
+1. Instalação de dependências
 ```
-Install xampp and import dbdiario.sql to your phpmyadmin and installer
+Instale o xampp e importe o dbdiario.sql para o seu phpmyadmin
 ```
 <h1 align="center">
     Home page
